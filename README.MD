@@ -8,9 +8,9 @@ Automatically set all SQL keywords to upper case after the space keystroke. Orig
 
 
 Change log:
-
+```
 1.1 - Added multiple scopes support for the SQL's `support` scope on the `sublime.keymap` file.
 1.0 - Initial release by `kingkeith`.
-
+```
 
 
